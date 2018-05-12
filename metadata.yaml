@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39159#Sky-IslandVisit-to-the-Sea-Fairies
 gutenberg_issued: '2012-03-15'
 gutenberg_type: Text
 identifiers:
